@@ -1,0 +1,15 @@
+4E26C019 = VerQueryValueW
+4E26C00F = VerQueryValueA
+8D347BDF = VerLanguageNameW
+8D347BC9 = VerLanguageNameA
+B6D1BB51 = VerInstallFileW
+B6D1BB47 = VerInstallFileA
+2BE2508A = VerFindFileW
+2BE2509C = VerFindFileA
+7AA45C6C = GetFileVersionInfoW
+8A94F711 = GetFileVersionInfoSizeW
+3DC0DEF2 = GetFileVersionInfoSizeExW
+8A94F707 = GetFileVersionInfoSizeA
+171FA2FE = GetFileVersionInfoExW
+A52A256B = GetFileVersionInfoByHandle
+7AA45C7A = GetFileVersionInfoA
